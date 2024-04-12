@@ -1,4 +1,4 @@
-# SQL-Project-1---Chinook
+# SQL-Practice-Project---Chinook
 
 The Chinook Database represents a digital media store, including informations about artists, albums, media tracks, invoices and customers. These details are contained in 11 tables.
 
